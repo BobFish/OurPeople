@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Candidates</key>
+	<array>
+		<dict>
+			<key>Picture</key>
+			<string>1.jpg</string>
+			<key>Name</key>
+			<string>Bob</string>
+			<key>Surname</key>
+			<string>Carr</string>
+			<key>Location</key>
+			<string>Tas</string>
+			<key>Role</key>
+			<string>.NET Developer</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>2.jpg</string>
+			<key>Name</key>
+			<string>Adam</string>
+			<key>Surname</key>
+			<string>Mills</string>
+			<key>Location</key>
+			<string>SA</string>
+			<key>Role</key>
+			<string>Senior Developer C,C++</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>3.jpg</string>
+			<key>Name</key>
+			<string>Henry</string>
+			<key>Surname</key>
+			<string>Butler</string>
+			<key>Location</key>
+			<string>Tas</string>
+			<key>Role</key>
+			<string>Buisness Analyst</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>4.jpg</string>
+			<key>Name</key>
+			<string>Mildred</string>
+			<key>Surname</key>
+			<string>Carroll</string>
+			<key>Location</key>
+			<string>ACT</string>
+			<key>Role</key>
+			<string>Java Application Developer</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>5.jpg</string>
+			<key>Name</key>
+			<string>John</string>
+			<key>Surname</key>
+			<string>Wheeler</string>
+			<key>Location</key>
+			<string>WA</string>
+			<key>Role</key>
+			<string>Buisness Analyst</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>6.jpg</string>
+			<key>Name</key>
+			<string>Edward</string>
+			<key>Surname</key>
+			<string>Burke</string>
+			<key>Location</key>
+			<string>Qld</string>
+			<key>Role</key>
+			<string>.NET Developer</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>7.jpg</string>
+			<key>Name</key>
+			<string>Gregory</string>
+			<key>Surname</key>
+			<string>Cox</string>
+			<key>Location</key>
+			<string>NSW</string>
+			<key>Role</key>
+			<string>Senior Dev .NET, Java, C#</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>8.jpg</string>
+			<key>Name</key>
+			<string>Harry</string>
+			<key>Surname</key>
+			<string>Hayes</string>
+			<key>Location</key>
+			<string>NT</string>
+			<key>Role</key>
+			<string>Buisness Analyst</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>9.jpg</string>
+			<key>Name</key>
+			<string>Ryan</string>
+			<key>Surname</key>
+			<string>Moreno</string>
+			<key>Location</key>
+			<string>SA</string>
+			<key>Role</key>
+			<string>Java Application Developer</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>10.jpg</string>
+			<key>Name</key>
+			<string>Johnny</string>
+			<key>Surname</key>
+			<string>Fields</string>
+			<key>Location</key>
+			<string>Vic</string>
+			<key>Role</key>
+			<string>Senior Dev .NET, Java, C#</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>11.jpg</string>
+			<key>Name</key>
+			<string>Hamish</string>
+			<key>Surname</key>
+			<string>Bell</string>
+			<key>Location</key>
+			<string>Vic</string>
+			<key>Role</key>
+			<string>Buisness Analyst</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>12.jpg</string>
+			<key>Name</key>
+			<string>Joyce</string>
+			<key>Surname</key>
+			<string>Harrison</string>
+			<key>Location</key>
+			<string>NSW</string>
+			<key>Role</key>
+			<string>.NET Developer</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>13.jpg</string>
+			<key>Name</key>
+			<string>Charles</string>
+			<key>Surname</key>
+			<string>Johnson</string>
+			<key>Location</key>
+			<string>Qld</string>
+			<key>Role</key>
+			<string>Java Application Developer</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>14.jpg</string>
+			<key>Name</key>
+			<string>Carol</string>
+			<key>Surname</key>
+			<string>Lynch</string>
+			<key>Location</key>
+			<string>NSW</string>
+			<key>Role</key>
+			<string>Java Application Developer</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>15.jpg</string>
+			<key>Name</key>
+			<string>Rachel</string>
+			<key>Surname</key>
+			<string>Jackson</string>
+			<key>Location</key>
+			<string>SA</string>
+			<key>Role</key>
+			<string>Buisness Analyst</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>16.jpg</string>
+			<key>Name</key>
+			<string>Rebecca</string>
+			<key>Surname</key>
+			<string>Perez</string>
+			<key>Location</key>
+			<string>Vic</string>
+			<key>Role</key>
+			<string>Senior Developer C,C++</string>
+		</dict>
+		<dict>
+			<key>Picture</key>
+			<string>17.jpg</string>
+			<key>Name</key>
+			<string>Miles</string>
+			<key>Surname</key>
+			<string>Hunter</string>
+			<key>Location</key>
+			<string>SA</string>
+			<key>Role</key>
+			<string>.NET Developer</string>
+		</dict>
+	</array>
+</dict>
+</plist>

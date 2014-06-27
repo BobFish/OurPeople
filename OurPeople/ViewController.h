@@ -7,9 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "RoleChoose.h"
 
-@interface ViewController : UIViewController
+NSString *RowSelected;
 
+@interface ViewController : UIViewController<UIPickerViewDataSource, UIPickerViewDelegate>
+
+- (IBAction)DisplayButton:(id)sender;
 
 @end
-
